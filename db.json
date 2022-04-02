@@ -1,0 +1,39 @@
+{
+
+  "product": [
+    {
+      "name": "SmartPhone",
+      "price": 30,
+      "id": 0
+    },
+    {
+      "name": "Watch",
+      "price": 20,
+      "id": 1
+    },
+    {
+      "name": "Shirt",
+      "price": 50,
+      "id": 2
+    },
+    {
+      "name": "Pants",
+      "price": 100,
+      "id": 3
+    }
+  ],
+  "user": [
+    {
+      "name": "shivling",
+      "department": "Computer",
+      "age": "22",
+      "salary": "1 lack",
+      "address": "pune",
+      "married": false,
+      "id": 1
+    }
+  
+  ]
+
+  
+}
